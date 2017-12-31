@@ -12,7 +12,7 @@ Arduino with C# Windows Desktop Application
 
 
 
-<h2>arduino sketch screenshot:</h2>
+<h2>Arduino sketch screenshot:</h2>
 <kbd>
 <img width="960" alt="untitled" src="https://user-images.githubusercontent.com/24265145/34458368-d6a498b8-edcf-11e7-80b9-28887e885675.png">
 </kbd>
